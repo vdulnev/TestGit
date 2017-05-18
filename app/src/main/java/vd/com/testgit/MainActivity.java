@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         //branch dev 2 change
         //master 5
         //master 6
+        //master 7
         // dev 3
         // dev 4
     }
